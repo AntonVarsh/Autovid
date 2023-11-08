@@ -3,9 +3,7 @@ An App that creates short-form content to improve education and provide a means 
 
 
 
-Collaborators:
-
-Ethan Geppel
+Collaborators: Ethan Geppel
 
 
 
